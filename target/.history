@@ -1,0 +1,9 @@
+lifty create lift project
+reload
+clean
+update
+clean
+reload
+update
+eclipse
+exit
